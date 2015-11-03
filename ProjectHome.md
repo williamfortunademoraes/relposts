@@ -1,0 +1,1 @@
+Created with a simple javascript code, this widget queries the Tumblr API, in any post of your tumblelog, looking for other similar/related posts, based on the current post's tags
